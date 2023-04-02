@@ -10,3 +10,8 @@ The Node.js framework will be used to develop the backend of the system, which w
 Finally, the ESP microcontrollers and their WiFi module will be used to communicate with the RFID reader and the backend of the system. The ESP microcontrollers are popular platforms for IoT development and are perfectly suited for this project.
 
 In summary, this project uses RFID technology, the Node.js framework, and ESP microcontrollers to create an authentication and presence system for the members of the RAS IEEE SupCom club. 
+
+## Getting Started
+```cmd
+node start
+```
